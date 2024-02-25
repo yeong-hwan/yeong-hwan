@@ -7,6 +7,7 @@
 - **Blue Point**  
   Seoul, Korea | Sep.2020-Dec.2020  
   Research Assistant
+  - Management of open innovation businesses for Corporate and Start-ups
 ### Tech Stack
 
 ### Education
