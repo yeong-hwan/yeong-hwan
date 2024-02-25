@@ -1,2 +1,11 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jghff700)](https://solved.ac/jghff700/)
+## Objectives
+- I majored in Computer Science, and I will graduate in August 2024.
+- Interested in backend engineer position and can develop Web API using Spring Boot as the main language of Java.
+- I want to grow into Backend Developer in the future.
 
+## Experience
+- Research Assistant
+
+## Tech Stack
+
+### Education
