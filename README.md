@@ -5,16 +5,18 @@
 
 ### Experience
 - **Blue Point**  
-  Research Assistant | Sep.2020-Dec.2020  | Seoul, Korea  
+  Research Assistant | Sep.2020-Dec.2020 | Seoul, Korea  
   > Management of open innovation businesses for Corporate and Start-ups
 
 - **Blue Point**  
-  > Research Assistant | Sep.2020-Dec.2020  | Seoul, Korea  
+  > Research Assistant | Sep.2020-Dec.2020  | Seoul, Korea
+  
   Management of open innovation businesses for Corporate and Start-ups
 
 - **Blue Point**
   Sep.2020-Dec.2020  | Seoul, Korea  
-  > Research Assistant  
+  > Research Assistant
+  
   Management of open innovation businesses for Corporate and Start-ups
 
 ### Tech Stack
