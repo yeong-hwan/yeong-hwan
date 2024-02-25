@@ -9,7 +9,7 @@
 - **Blue Point**  
   > Research Assistant  |  Sep.2020-Dec.2020  |  Seoul, Korea
   
-  Management of open innovation businesses for Corporate and Start-ups  
+  Management of open innovation businesses to connect Corporate and Start-ups  
   Investment execution for promising Start-ups
 
 
