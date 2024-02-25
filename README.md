@@ -4,7 +4,8 @@
 - I want to grow into Backend Developer in the future.
 
 ### Experience
-- **Blue Point**  Seoul, Korea | Sep.2020-Dec.2020
+- **Blue Point**  
+  Seoul, Korea | Sep.2020-Dec.2020  
   Research Assistant
 ### Tech Stack
 
