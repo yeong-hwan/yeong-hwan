@@ -12,6 +12,14 @@
   Management of open innovation businesses to connect Corporate and Start-ups  
   Investment execution for promising Start-ups
 
+### Activity
+
+- CEOS: Sinchon IT Foundation Society 19th
+  > Back-End | Mar.2024-Now | Seoul, Korea
+
+- SW Maestro 15th
+  > Back-End | Mar.2024-Now | Seoul, Korea
+
 
 ### Education
 
