@@ -29,5 +29,7 @@
 - **Chungnam Samsung Academy**
   > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea
 
+
 ### More on my Notion
-[Notion Profile](https://yh-color.notion.site/Yeonghwan-Jang-156cc9d2766a42f89590151e1323c98c?pvs=4)
+
+- [Notion Profile](https://yh-color.notion.site/Yeonghwan-Jang-156cc9d2766a42f89590151e1323c98c?pvs=4)
