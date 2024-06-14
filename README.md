@@ -4,14 +4,6 @@
 - I want to grow into Backend Engineer in the future.
 
 
-### Experience
-
-- **Blue Point**  
-  > Research Assistant |  Sep.2020 - Dec.2020  |  Seoul, Korea
-  
-  Management of open innovation businesses to connect Corporate and Start-ups  
-  Investment execution for promising Start-ups
-
 ### Activity
 
 - **CEOS: Sinchon IT Foundation Society 19th**
