@@ -6,11 +6,11 @@
 
 ### Activity
 
-- **CEOS: Sinchon IT Foundation Society 19th**
-  > Back-End(Spring) | Mar.2024 - Now | Seoul, Korea
-
 - **SW Maestro 15th**
   > Back-End(Spring) | Mar.2024 - Now | Korea Ministry of Science and ICT
+
+- **CEOS: Sinchon IT Foundation Society 19th**
+  > Back-End(Spring) | Mar.2024 - Now | Seoul, Korea
 
 
 ### Education
