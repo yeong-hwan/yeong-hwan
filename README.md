@@ -1,5 +1,5 @@
 ### Objectives
-- I majored in Computer Science, and I will graduate in August 2024.
+- I majored in Computer Science, and I will graduate in February 2025.
 - Interested in Backend Developer position and can develop Web API using Spring Boot.
 - I want to grow into Backend Engineer in the future.
 
@@ -16,7 +16,7 @@
 ### Education
 
 - **Yonsei University**
-  > Bachelor’s Degree in Computer Science | Mar.2019 - Aug.2024 | Seoul, Korea
+  > Bachelor’s Degree in Computer Science | Mar.2019 - Feb.2025 | Seoul, Korea
 
 - **Chungnam Samsung Academy**
   > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea
