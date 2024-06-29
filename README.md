@@ -7,10 +7,10 @@
 ### Activity
 
 - **SW Maestro 15th**
-  > Back-End(Spring) | Mar.2024 - Now | Korea Ministry of Science and ICT
+  > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT
 
 - **CEOS: Sinchon IT Foundation Society 19th**
-  > Back-End(Spring) | Mar.2024 - Now | Seoul, Korea
+  > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea
 
 
 ### Education
