@@ -1,18 +1,18 @@
 ### Objectives
 - I majored in Computer Science, and I will graduate in February 2025.
 - Interested in Software Engineer position
-- My Interest: Server, Search, Optimization, Automation, SRE
+- Interest : Server, Search, Optimization, Automation, SRE
 
 
 ### Activity
 
 - **SW Maestro 15th**
   > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT
-  > Dears : 
+  Dears: Wedding Planner Price Comparison Platform
 
 - **CEOS: Sinchon IT Foundation Society 19th**
   > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea
-
+  TIG: Leisure Booking Platform
 
 ### Education
 
