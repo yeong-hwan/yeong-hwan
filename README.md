@@ -1,13 +1,14 @@
 ### Objectives
 - I majored in Computer Science, and I will graduate in February 2025.
-- Interested in Backend Developer position and can develop Web API using Spring Boot.
-- I want to grow into Backend Engineer in the future.
+- Interested in Software Engineer position
+- My Interest: Server, Search, Optimization, Automation, SRE
 
 
 ### Activity
 
 - **SW Maestro 15th**
   > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT
+  > Dears : 
 
 - **CEOS: Sinchon IT Foundation Society 19th**
   > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea
