@@ -11,9 +11,9 @@
   > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT  
   
 
-- **CEOS: Sinchon IT Foundation Society 19th**
-  > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea  
+- **CEOS: Sinchon IT Foundation Society 19th**  
   TIG: Leisure Booking Platform
+  > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea  
 
 ### Education
 
