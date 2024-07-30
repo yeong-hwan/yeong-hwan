@@ -6,7 +6,7 @@
 
 ### Activity
 
-- **SW Maestro 15th**
+- **SW Maestro 15th**  
   Dears: Wedding Planner Price Comparison Platform
   > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT  
   
