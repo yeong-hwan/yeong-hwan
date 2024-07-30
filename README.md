@@ -7,8 +7,9 @@
 ### Activity
 
 - **SW Maestro 15th**
-  > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT  
   Dears: Wedding Planner Price Comparison Platform
+  > Back-End(Spring) | Mar.2024 - Present | Korea Ministry of Science and ICT  
+  
 
 - **CEOS: Sinchon IT Foundation Society 19th**
   > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea  
