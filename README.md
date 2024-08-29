@@ -25,4 +25,4 @@
 
 
 ### Resume
-[Latest Version(2024.08.30)](https://drive.google.com/file/d/16rDaxJ4nH09TY97i5SsiM_F2DLfNcjl5/view?usp=sharing)
+- [Latest Version(2024.08.30)](https://drive.google.com/file/d/16rDaxJ4nH09TY97i5SsiM_F2DLfNcjl5/view?usp=sharing)
