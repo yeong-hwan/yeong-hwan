@@ -1,7 +1,7 @@
 ### Objectives
 - I majored in Computer Science, and I will graduate in February 2025.
 - Interested in Software Engineer position
-- Interest : Server, Search, Optimization, Automation, SRE
+- Interest : Server, Optimization, Automation, SRE
 
 
 ### Activity
