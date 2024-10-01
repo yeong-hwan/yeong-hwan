@@ -13,7 +13,7 @@
 
 - **CEOS: Sinchon IT Foundation Society 19th**  
   TIG: Leisure Booking Platform([Link](https://tigleisure.com/))
-  > Back-End(Spring) | Mar.2024 - Present | Seoul, Korea  
+  > Back-End(Spring) | Mar.2024 - Jul.2024 | Seoul, Korea  
 
 ### Education
 
