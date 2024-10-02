@@ -25,5 +25,5 @@
 
 
 ### Resume
-- [Kor(2024.09.01)](https://drive.google.com/file/d/11_lg65rnaMv5EYSBrur3AZjDqiKp74It/view?usp=sharing)
+- [Kor(2024.10.02)](https://drive.google.com/file/d/11_lg65rnaMv5EYSBrur3AZjDqiKp74It/view?usp=sharing)
 - [Eng(2024.09.01)](https://drive.google.com/file/d/1_ycFA8anxI-NaEdn9dfmgt61ICTX1t7e/view?usp=sharing)
