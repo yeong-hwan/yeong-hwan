@@ -1,5 +1,4 @@
 ### Objectives
-- I majored in Computer Science, and I will graduate in February 2025.
 - Interested in Software Engineer position
 - Interest : Server, Optimization, Automation, SRE
 
@@ -18,7 +17,7 @@
 ### Education
 
 - **Yonsei University**
-  > Bachelor’s Degree in Computer Science | Mar.2019 - Feb.2025 | Seoul, Korea
+  > Bachelor’s Degree in Computer Science | Mar.2019 - Present | Seoul, Korea
 
 - **Chungnam Samsung Academy**
   > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea
