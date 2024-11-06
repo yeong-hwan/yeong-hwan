@@ -1,6 +1,6 @@
 ### Objectives
 - Interested in Software Engineer position
-- Interest : Server, Optimization, Automation, SRE
+- Interest : Server, Optimization, Automation, SRE, Crypto
 
 
 ### Activity
