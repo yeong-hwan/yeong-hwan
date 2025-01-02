@@ -4,7 +4,7 @@
 
 ### Experience
 - **Wordbricks**  
-  Gen-AI Work Automation
+  Gen-AI Work Automation ([Link](https://getgpt.app/))
   > Software Engineer Intern | 2024.Dec - Current | Palo Alto, CA (Remote)
 
 - **Dears**  
@@ -22,6 +22,7 @@
 
 - **Chungnam Samsung Academy**
   > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea
+  > Youth Digital PS Mentor | Jul.2024 | Korea Ministry of Science and ICT
 
 ### Scholarship
 - Youth Digital PS Mentor | Jul.2024 | Korea Ministry of Science and ICT
