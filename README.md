@@ -1,16 +1,19 @@
 ### Objectives
 - Interested in Software Engineer position
-- Interest : Server, Optimization, Automation, SRE, Crypto
+- Interest : Server, Optimization, Automation, LLM, SRE, Crypto
 
-### Activity
+### Experience
+- **Wordbricks**  
+  Gen-AI Work Automation
+  > Software Engineer Intern | 2024.Dec - Current | Palo Alto, CA (Remote)
 
 - **Dears**  
   Wedding Planner Price Comparison Platform
-  > Software Engineer | Mar.2024 - Nov.2024 | Seoul, Korea (SW Maestro 15th)
+  > Team Lead, Software Engineer | Mar.2024 - Nov.2024 | Seoul, Korea (SW Maestro 15th)
   
-- **TIG** 
+- **TIG**  
   Leisure Booking Platform ([Link](https://tigleisure.com/))
-  > Server Engineer | Mar.2024 - Jul.2024 | Seoul, Korea (CEOS)
+  > Co-founder, Server Engineer | Mar.2024 - Jul.2024 | Seoul, Korea (CEOS)
 
 ### Education
 
