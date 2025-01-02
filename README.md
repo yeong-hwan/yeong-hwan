@@ -5,7 +5,7 @@
 ### Experience
 - **Wordbricks**  
   Gen-AI Work Automation ([Link](https://getgpt.app/))
-  > Software Engineer Intern | 2024.Dec - Current | Palo Alto, CA (Remote)
+  > Software Engineer Intern | Dec.2024 - Current | Palo Alto, CA (Remote)
 
 - **Dears**  
   Wedding Planner Price Comparison Platform
