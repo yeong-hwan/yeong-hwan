@@ -21,7 +21,7 @@
   > Bachelor’s Degree in Computer Science | Mar.2019 - Present | Seoul, Korea
 
 - **Chungnam Samsung Academy**
-  > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea
+  > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea  
   > Youth Digital PS Mentor | Jul.2024 | Korea Ministry of Science and ICT
 
 ### Scholarship
