@@ -24,7 +24,7 @@
   > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea  
 
 ### Scholarship
-- **Youth Digital PS Mentor** | Jul.2024 | Korea Ministry of Science and ICT
+- **Youth Digital AI Mentor** | Jul.2024 | Korea Ministry of Science and ICT
 
 - **4IR Talent Scholar** | Jul.2022 | Asan Future Scholarship Foundation
 
