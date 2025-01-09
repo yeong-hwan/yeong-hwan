@@ -35,5 +35,5 @@ Kangourou sans Frontières
 
 
 ### Resume
-- [Kor(2025.01.08)](https://drive.google.com/file/d/1btNp00jhjiuK41Na4GZBR5YNMTPGVS3d/view?usp=sharing)
-- [Eng(2025.01.08)](https://drive.google.com/file/d/1vzaFyMcFC9bJMK69oc36JoHOCHud5JRR/view?usp=sharing)
+- [Kor(2025.01.10)](https://drive.google.com/file/d/1nof5piHRRwnarlXPMGRRcR3m491LH5t7/view?usp=sharing)
+- [Eng(2025.01.10)](https://drive.google.com/file/d/1JPq6PKAF6hTro9OhJ6_mkNzjPBJKN12H/view?usp=sharing)
