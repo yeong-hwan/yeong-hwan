@@ -1,6 +1,6 @@
 ### Objectives
 - Interested in Software Engineer position
-- Interest : Server, Optimization, Automation, LLM, SRE, Crypto
+- Interest : Server, Optimization, Automation, LLM, Crypto, Quant
 
 ### Experience
 - **Wordbricks**  
