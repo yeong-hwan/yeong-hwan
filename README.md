@@ -1,10 +1,14 @@
 ### Objectives
 - Interested in Software Engineer position
-- Interest : Server, Optimization, Automation, LLM, Crypto, Quant
+- Interest : Server, Optimization, Automation, SRE, LLM, Crypto, Quant
 
 ### Experience
+- **ABLY Corporation**
+  The Next Commerce ([ABLY](https://a-bly.com/))
+  > Software Engineer Intern | Mar.2025 - current | Seoul, Korea
+
 - **Wordbricks**  
-  Gen-AI Work Automation ([Link](https://getgpt.app/))
+  Gen-AI Work Automation ([GetGPT](https://getgpt.app/))
   > Software Engineer Intern | Dec.2024 - Feb.2025 | Palo Alto, CA (Remote)
 
 - **Dears**  
@@ -30,9 +34,8 @@
 
 - **Admission Excellence** | Apr.2019 | Yonsei University
 
-- **International Math Competition Silver Medal** | May.2018 | Association
-Kangourou sans Frontières
-
+- **International Math Competition Silver Medal** | May.2018 | Association Kangourou sans Frontières
+- 
 
 ### Resume
 - [Kor(2025.01.10)](https://drive.google.com/file/d/1nof5piHRRwnarlXPMGRRcR3m491LH5t7/view?usp=sharing)
