@@ -3,7 +3,7 @@
 - Interest : Server, Optimization, Automation, SRE, LLM, Crypto, Quant
 
 ### Experience
-- **ABLY Corporation**
+- **ABLY Corporation**  
   The Next Commerce ([ABLY](https://a-bly.com/))
   > Software Engineer Intern | Mar.2025 - current | Seoul, Korea
 
