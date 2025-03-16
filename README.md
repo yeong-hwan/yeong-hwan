@@ -16,7 +16,7 @@
   > Team Lead, Software Engineer | Mar.2024 - Nov.2024 | Seoul, Korea (SW Maestro 15th)
   
 - **TIG**  
-  Leisure Booking Platform ([Link](https://tigleisure.com/))
+  Leisure Booking Platform ([TIG](https://tigleisure.com/))
   > Co-founder, Server Engineer | Mar.2024 - Jul.2024 | Seoul, Korea (CEOS)
 
 ### Education
