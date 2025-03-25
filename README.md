@@ -34,8 +34,8 @@
 
 - **Admission Excellence** | Apr.2019 | Yonsei University
 
-- **International Math Competition Silver Medal** | May.2018 | Association Kangourou sans Frontières
-- 
+- **International Math Competition Silver Medal** | May.2018 | Association Kangourou sans Frontières  
+
 
 ### Resume
 - [Kor(2025.01.10)](https://drive.google.com/file/d/1nof5piHRRwnarlXPMGRRcR3m491LH5t7/view?usp=sharing)
