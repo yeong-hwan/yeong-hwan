@@ -14,11 +14,12 @@
 ## Education
 
 - **Yonsei University**
-
   > Bachelor’s Degree in Computer Science | Mar.2019 - Aug.2025 | Seoul, Korea
 
+- **Chungnam Samsung Academy**
+  > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea  Add comment
 
-### Scholarship
+## Scholarship
 - **Youth Digital AI Leader** | Jul.2024 | Korea Ministry of Science and ICT
 
 - **4IR Talent Scholar** | Jul.2022 | Asan Future Scholarship Foundation
