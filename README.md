@@ -1,8 +1,8 @@
-### Objectives
+## Objectives
 - Interested in Software Engineer position
 - Interest : Server, Optimization, Automation, SRE, LLM, Crypto, Quant
 
-### Experience
+## Experience
 - **ABLY Corporation**  
   The Next Commerce ([ABLY](https://a-bly.com/))
   > Software Engineer Intern | Mar.2025 - current | Seoul, Korea
@@ -19,13 +19,11 @@
   Leisure Booking Platform ([TIG](https://tigleisure.com/))
   > Co-founder, Server Engineer | Mar.2024 - Jul.2024 | Seoul, Korea (CEOS)
 
-### Education
+## Education
 
 - **Yonsei University**
   > Bachelor’s Degree in Computer Science | Mar.2019 - Aug.2025 | Seoul, Korea
 
-- **Chungnam Samsung Academy**
-  > Major in Engineering & Life Science | Mar.2016 - Feb.2019 | Asan, Korea  
 
 ### Scholarship
 - **Youth Digital AI Leader** | Jul.2024 | Korea Ministry of Science and ICT
