@@ -5,7 +5,7 @@
 ## Experience
 - **ABLY Corporation**  
   The Next Commerce
-  > Software Engineer Intern | Mar.2025 - current | Seoul, Korea
+  > Software Engineer | Mar.2025 - current | Seoul, Korea
 
 - **Wordbricks**  
   Gen-AI Work Automation
