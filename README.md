@@ -30,8 +30,8 @@
 - **International Math Competition Silver Medal** | May.2018 | Association Kangourou sans Frontières  
 
 ## Presentation
-- ASUGCON 2025 | Sep.2025 | TBD
-- ACC SCD(AWSCloudClub StudentCommunityDay) 2025 | May.2025 | [1억 트래픽을 견디는 서버 만들기](https://youtu.be/Ey_IBhsmrhM)
+- **ASUGCON 2025** | Sep.2025 | TBD
+- **ACC SCD 2025** | May.2025 | [1억 트래픽을 견디는 서버 만들기](https://youtu.be/Ey_IBhsmrhM)
 
 ## Resume
 - [Kor(2025.01.10)](https://drive.google.com/file/d/1nof5piHRRwnarlXPMGRRcR3m491LH5t7/view?usp=sharing)
