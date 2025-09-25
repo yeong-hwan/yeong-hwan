@@ -31,7 +31,7 @@
 
 ## Presentation
 - **ASUGCON 2025** | Sep.2025 | TBD
-- **ACC SCD 2025** | May.2025 | [1억 트래픽을 견디는 서버 만들기](https://youtu.be/Ey_IBhsmrhM)(Design a server that scales to 100M requests)
+- **AWS Cloud Club SCD 2025** | May.2025 | [1억 트래픽을 견디는 서버 만들기](https://youtu.be/Ey_IBhsmrhM)(Design a server that scales to 100M requests)
 
 ## Contributions
 
