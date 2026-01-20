@@ -31,7 +31,7 @@
 
 ## Presentation
 - **AUSG Public Bigchat** | Jan.2026 | 당신의 DB를 느리게 만드는 꿀팁들(TBD)(Pro tips for slowing down your Database)
-- **AUSGCON 2025** | Sep.2025 | 암호화폐 트레이딩 101[https://drive.google.com/file/d/1u0ixNU5PH3-XaLY80N5NBa5oNOxEjnBj/view?usp=sharing](Cryptocurrency Trading 101)
+- **AUSGCON 2025** | Sep.2025 | [암호화폐 트레이딩 101](https://drive.google.com/file/d/1u0ixNU5PH3-XaLY80N5NBa5oNOxEjnBj/view?usp=sharing)(Cryptocurrency Trading 101)
 - **AWS Cloud Club SCD 2025** | May.2025 | [1억 트래픽을 견디는 서버 만들기](https://youtu.be/Ey_IBhsmrhM)(Design a server that scales to 100M requests)
 
 ## Contributions
